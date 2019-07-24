@@ -1,0 +1,24 @@
+@media only screen and (max-width: 992px) {
+	.top{
+		height: 200px;
+	}
+}
+@media only screen and (max-width: 400px) {
+	.top{
+		height: 200px;
+	}
+	.mid{
+		display: block;
+		background:blue;
+	}
+	.knopka{
+		display: block
+	}
+	.info{
+		margin-top: 30px;
+	}
+
+	.intop{
+		font-size: 20px;
+	}
+}
